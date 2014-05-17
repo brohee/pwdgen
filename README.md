@@ -1,4 +1,4 @@
 pwdgen
 ======
 
-Pronounceable password generator minimal entropy guaranty
+Pronounceable password generator with minimal entropy guaranty.
